@@ -1,0 +1,20 @@
+{
+  "name": "proyectos-udemy-sitio-freelancer-tailwind",
+  "version": "1.0.0",
+  "description": "En este curso dictado por el profesor Juan De La Torre reforcé más el uso de HTML y CSS. Maquetando un sitio web básico de presentación de un portafolio frelancer.  Pero esta vez usaré un framework de CSS; TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javicot/Proyectos-Udemy-Sitio-Freelancer-Tailwind.git"
+  },
+  "keywords": [],
+  "author": "Javier Tintaya <jhosimart42@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javicot/Proyectos-Udemy-Sitio-Freelancer-Tailwind/issues"
+  },
+  "homepage": "https://github.com/Javicot/Proyectos-Udemy-Sitio-Freelancer-Tailwind#readme"
+}
