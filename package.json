@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Javicot/Proyectos-Udemy-Sitio-Freelancer-Tailwind/issues"
   },
-  "homepage": "https://github.com/Javicot/Proyectos-Udemy-Sitio-Freelancer-Tailwind#readme"
+  "homepage": "https://github.com/Javicot/Proyectos-Udemy-Sitio-Freelancer-Tailwind#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.17",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.1.5"
+  }
 }
